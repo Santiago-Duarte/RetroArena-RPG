@@ -21,4 +21,4 @@ Un motor de combate por turnos desarrollado en Python bajo el paradigma de Progr
 1. Asegúrate de tener instalado Python 3.x en tu sistema.
 2. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)# RetroArena-RPG
+   git clone https://github.com/Santiago-Duarte/RetroArena-RPG.git
